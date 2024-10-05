@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="subject"><b>Materia:</b></string>
+    <string name="ht">Horas Teóricas</string>
+    <string name="hp">Horas Práctica</string>
+    <string name="credit">Cantidad de créditos</string>
+    <string name="calculate">Calcular</string>
+    <string name="nameSubject">Ingresa el nombre de la materia</string>
+    <string name="numberCredits">Ingresa número de créditos</string>
+</resources>
