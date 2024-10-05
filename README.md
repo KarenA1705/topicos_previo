@@ -14,8 +14,11 @@ La interfaz es sencilla y fácil de usar.ç
 - Un semestre corresponde a 16 semanas.
 
 **Ejemplo:**
+ 
  Horas por créditos = Número de créditos * 48  = 3 * 48 = 144
+ 
  Horas presenciales = (Hora teórica + Hora práctica) * Trabajo independiente del semestre=  (2 + 2) * 16= 64
+ 
  Trabajo independiente = (Horas total por créditos - Horas total presenciales ) / Trabajo independiente del semestre   = (144 -  64 ) / 16 = 5
 
 ### Tecnologías Utilizadas
