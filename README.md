@@ -10,7 +10,7 @@ La interfaz es sencilla y fácil de usar.ç
 - **CRED:** Un (1) crédito académico corresponde a 48 horas, según el Ministerio de Educación Nacional.
 - **HT =** Horas Teóricas de la asignatura orientadas de forma presencial.  
 - **HP =** Horas Prácticas de la asignatura orientada de forma presencial. 
-- **TI =**Trabajo Independiente que el estudiante debe dedicar a la semana.  
+- **TI =** Trabajo Independiente que el estudiante debe dedicar a la semana.  
 - Un semestre corresponde a 16 semanas.
 
 **Ejemplo:**
